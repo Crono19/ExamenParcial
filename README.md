@@ -17,7 +17,7 @@ Realmente todo me apasiona. Quitando algunas tareas de Estrategias de Razonamien
     - El buen ambiente que se siente en todas las clases
 
 ## Sobre Python
-Me ha encando aprender sobre Python porque es un lenguaje sencillo se aprender y de utilizar. Todo es más sencillo en Python.
+Me ha encando aprender sobre Python porque es un lenguaje sencillo de aprender y de utilizar. Todo es más sencillo en Python.
 Por ejemplo, para iniciar y finalizar un if en Python se hace así:
 ```
 If condición:
