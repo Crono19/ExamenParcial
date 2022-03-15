@@ -14,3 +14,4 @@ while cont < numero:
     cont += 1
     
 print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
+print("Nombre: Pablo Andrés Mazariegos Hernández. Carné: 1541522.")
