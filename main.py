@@ -12,3 +12,5 @@ cont = 0
 while cont < numero:
     print(f"Hola mundo número {cont + 1}")
     cont += 1
+    
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
